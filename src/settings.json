@@ -1,0 +1,9 @@
+{
+  "token": "TOKEN",
+  "trigger": "sns",
+  "whitelist": [
+    "701189390935916624"
+  ],
+  "whiteListServers": [],
+  "stateRPC": true
+}
